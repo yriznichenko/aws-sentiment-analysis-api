@@ -1,0 +1,10 @@
+text,label
+I love this product,positive
+This movie is fantastic,positive
+The service was excellent,positive
+I hate this product,negative
+This application is terrible,negative
+The delivery was bad,negative
+The package arrived yesterday,neutral
+Today is Monday,neutral
+The user opened the application,neutral
